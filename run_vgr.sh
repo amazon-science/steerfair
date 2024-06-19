@@ -1,0 +1,3 @@
+python -m llava.vg_relation.model_vgr --model-path liuhaotian/llava-v1.5-13b --question-file ~/VG_Relation/llava_vgr_QM.json --image-folder ~/VG_relation/images --answers-file vgr/results/base_model/llava_vgr_QM.json --conv-mode llava_v1 
+
+#  python -m llava.vg_relation.model_vgr --model-path liuhaotian/llava-v1.5-13b --question-file ~/VG_Relation/llava_vgr_QCM.json --image-folder ~/VG_relation/images --answers-file vgr/results/base_model/llava_vgr_QCM.json --conv-mode llava_v1 

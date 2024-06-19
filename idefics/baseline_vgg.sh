@@ -1,0 +1,2 @@
+python baseline.py --question-file ~/VGG-Face2/baseline_2_vgg_test_family_career.json --answers-file ../vgg2/idefics/prompt2_baseline/family_career_test.jsonl  
+python baseline.py --question-file ~/VGG-Face2/baseline_2_vgg_test_math_arts.json --answers-file ../vgg2/idefics/prompt2_baseline/math_arts_test.jsonl
